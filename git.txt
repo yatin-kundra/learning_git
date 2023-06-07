@@ -30,4 +30,8 @@ git remote add origin (or you can use any name you want ) <link of the git repo>
 
 then use
  git push origin master  // to push changes
+ 
+ 
+ -----------
+ git pull origin master  // command is used to pull the files if you change anything on git hub or your project friend made anychanges
 
