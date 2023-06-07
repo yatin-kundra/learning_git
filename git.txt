@@ -18,3 +18,4 @@ git push origin master // we are pusing the changes to our github and master is 
 
 === to push a folder that is already on your pc to git hub.
 
+git init // is used to initialize a folder to github , like i did to sample_project for cs and ml course i was learnig.
