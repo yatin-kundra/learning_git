@@ -19,3 +19,14 @@ git push origin master // we are pusing the changes to our github and master is 
 === to push a folder that is already on your pc to git hub.
 
 git init // is used to initialize a folder to github , like i did to sample_project for cs and ml course i was learnig.
+
+// now we need to use
+ git add <file names that i want to push to github>   // and then we will use *** git commit -m "message" /*** to commit the file
+
+
+// to push we need a repo on github so create a git repo without readme.dm so do that and then use command 
+
+git remote add origin (or you can use any name you want ) <link of the git repo>   // to link your folder to github
+
+then use git push to push changes
+
