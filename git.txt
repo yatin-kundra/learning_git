@@ -28,5 +28,6 @@ git init // is used to initialize a folder to github , like i did to sample_proj
 
 git remote add origin (or you can use any name you want ) <link of the git repo>   // to link your folder to github
 
-then use git push to push changes
+then use
+ git push origin master  // to push changes
 
