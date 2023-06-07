@@ -11,3 +11,5 @@ git push
 git commit -a  -m "you message goes here."	// a means all , so all the changes will be commited.
 
 git log   // lets you see all your previous commits you can use like -3 to see only last 3 commits
+
+git --list // will tell you about user settings
