@@ -13,3 +13,5 @@ git commit -a  -m "you message goes here."	// a means all , so all the changes w
 git log   // lets you see all your previous commits you can use like -3 to see only last 3 commits
 
 git --list // will tell you about user settings
+
+git push origin master // we are pusing the changes to our github and master is the branch we are pushing and origin is needed don't realy 				//know why are we using it
