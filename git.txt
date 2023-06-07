@@ -5,3 +5,7 @@ git commit -m "message"
 git status
 
 git push 
+
+// this is the change i made while learnig git.
+
+git commit -a  -m "you message goes here."	// a means all , so all the changes will be commited.
