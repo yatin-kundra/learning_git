@@ -15,3 +15,6 @@ git log   // lets you see all your previous commits you can use like -3 to see o
 git --list // will tell you about user settings
 
 git push origin master // we are pusing the changes to our github and master is the branch we are pushing and origin is needed don't realy 				//know why are we using it
+
+=== to push a folder that is already on your pc to git hub.
+
